@@ -29,3 +29,4 @@ Android/Build/deps/*
 !Android/Build/Makefile
 Makefile*
 Android/Build/local.properties
+oo
